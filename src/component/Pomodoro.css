@@ -65,10 +65,7 @@
 .here{
     transform: translate(18%, 184%);
 }
-/* .reversedCircularProgessbarWithoutColor{
-    
-} */
-@media (width: 390px) {
+@media (max-width: 400px) {
     .now {
         display: flex;
         height: 100vh;
